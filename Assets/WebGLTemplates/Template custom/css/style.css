@@ -1,0 +1,13 @@
+body {
+    background-color: gray;
+    text-align: center;
+    font-family: "Lucida Console";
+}
+
+#unity-canvas {
+    display: block;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    border: double black;
+}
